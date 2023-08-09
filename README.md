@@ -10,3 +10,4 @@
 
 # Recipe-Tracking
 The app will allow a user to add new recipes, display a list of recipes and delete a recipe from the list by clicking a delete button. You will also be asked to add styling as provided in the mockup.
+[https://github.com/israelkidanee/Recipe-Tracking/blob/main/screenshot/deliciousfoods.png]
